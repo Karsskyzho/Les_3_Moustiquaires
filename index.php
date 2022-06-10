@@ -1,4 +1,4 @@
-<? echo 'premier blame pour Samy'; ?>
+<?php echo 'premier blame pour Samy'; ?>
 
 
 
